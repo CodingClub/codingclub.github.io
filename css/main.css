@@ -134,6 +134,10 @@ a:visited { color: #a0a; }
   padding: 0 .4em;
 }
 
+.post ul, .post ol, .post p {
+    margin-bottom: 1.2em;
+}
+
 .post ul, .post ol {
   margin-left: 1.35em;
 }
@@ -167,4 +171,8 @@ h1 {
 
 h2 {
     font-size: 1.3em;
+}
+
+h3 {
+    margin-bottom: .4em;
 }
